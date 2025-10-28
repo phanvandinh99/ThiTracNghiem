@@ -1,0 +1,6 @@
+# Copy this file to config.properties and edit values
+# MySQL JDBC URL (add serverTimezone/useSSL if needed)
+db.url=jdbc:mysql://localhost/hoidap_db?serverTimezone=UTC&useSSL=false
+# Database user and password
+db.user=root
+db.password=
